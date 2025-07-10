@@ -1,7 +1,7 @@
 # Hi there, I'm Senthil Harish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Flutter+Developer+🦋;Dart+Language+Expert+🎯;Cross-Platform+Mobile+Apps+📱;Building+Beautiful+UIs+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Flutter+Developer+🦋;Dart+Language+🎯;Cross-Platform+Mobile+Apps+📱;Building+Beautiful+UIs+✨" alt="Typing SVG" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=header&text=🦋%20Flutter%20Developer%20🦋&fontSize=20&fontColor=ffffff&animation=twinkling"/>
